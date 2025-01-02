@@ -1,0 +1,45 @@
+{
+  "build": "py312h5da7b33_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.2,<15.0a0",
+    "vs2015_runtime >=14.29.30133,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyodbc-5.1.0-py312h5da7b33_0",
+  "files": [
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/METADATA",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/RECORD",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/WHEEL",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/pyodbc-5.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/pyodbc.cp312-win_amd64.pyd",
+    "Lib/site-packages/pyodbc.pyi",
+    ".nonadmin"
+  ],
+  "fn": "pyodbc-5.1.0-py312h5da7b33_0.conda",
+  "license": "MIT-0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyodbc-5.1.0-py312h5da7b33_0",
+    "type": 1
+  },
+  "md5": "2457560e6a746e4abbe5626e644fd2d6",
+  "name": "pyodbc",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\pyodbc-5.1.0-py312h5da7b33_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::pyodbc==5.1.0=py312h5da7b33_0[md5=2457560e6a746e4abbe5626e644fd2d6]",
+  "sha256": "4d78d5830338f193ea5f8d62babf5855b9b28b47d793bf141394d010ab2dd88b",
+  "size": 76975,
+  "subdir": "win-64",
+  "timestamp": 1725560619000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/pyodbc-5.1.0-py312h5da7b33_0.conda",
+  "version": "5.1.0"
+}
